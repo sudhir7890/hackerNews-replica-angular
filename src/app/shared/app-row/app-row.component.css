@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  span {
+    font-size: 11px;
+    padding: 1px;
+  }
+  
+  tr {
+    margin: 0;
+  }
+  
+  .web-link {
+    font-size: 12px;
+    margin: 2px;
+  }
+  
+  .normal-link {
+    padding-left: 25px;
+  }
+  
+  .main-row:hover {
+    background-color: gainsboro;
+  }
+  
+  .comment-row {
+    line-height: 17px;
+  }
+  
+  .info-row {
+    color: gray;
+  }
+  

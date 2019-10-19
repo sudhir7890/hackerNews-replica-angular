@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .container-table {
+    min-width: 85%;
+    max-width: 85%;
+    display: table;
+    background-color: rgb(246, 246, 239);
+  }
+  
+  .title {
+    font-weight: bold
+  }
+  
+  .header {
+    line-height: 24px;
+  }
+  
+  .active-link {
+    color: white;
+  }
+  

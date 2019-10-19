@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  td {
+    word-wrap:break-word;
+    white-space: normal;
+  }
+  
+  .table-row {
+    color: grey;
+    height: 16px;
+  }
+  
+  .text {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  
+  .main-row {
+    border-bottom: 0.5pt solid grey;
+    margin: 0;
+  }
+  
+  .user {
+    color: gray;
+  }
+  
