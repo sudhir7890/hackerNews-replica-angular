@@ -24,7 +24,7 @@ import { PolloptComponent } from './Commentss/pollopt/pollopt.component';
     PolloptComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule,
     HttpClientModule,
 
